@@ -31,4 +31,4 @@ npm install
 ./node_modules/.bin/cypress run --spec 'cypress/e2e/**/'
 ```
 
-<p align="center"><img src="./testes/cypress/videos/testeServeRest.cy.js.mp4" alt="Teste Serve Rest" /></p>
+<p align="center"><img src="./testes/cypress/videos/testeServeRest.cy.js.gif" alt="Teste Serve Rest" /></p>
